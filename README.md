@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singhster7
-- 👀 I’m interested in ... ReactJS,NodeJS
+- 👀 I’m interested in ... ReactJS,NodeJS,c++
 - 🌱 I’m currently learning ...Kotlin,Python
 - 💞️ I’m looking to collaborate on ...Frontend Projects
 - 📫 How to reach me ...Linkedin
