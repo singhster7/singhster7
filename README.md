@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @singhster7
 - 👀 I’m interested in ... ReactJS,NodeJS,c++
 - 🌱 I’m currently learning ...Kotlin,Python
-- 💞️ I’m looking to collaborate on ...Frontend Projects
+- 💞️ I’m looking to collaborate on ...
+- # Frontend Projects
+- # KOTLIN
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...He/hIM
 - ⚡ Fun fact: ...
