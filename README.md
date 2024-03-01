@@ -6,7 +6,7 @@
 - # KOTLIN
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...He/hIM
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...3rd year grad
 
 <!---
 singhster7/singhster7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
