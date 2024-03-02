@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - # Frontend Projects
 - # KOTLIN
+- # NodeJS
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...He/hIM
 - ⚡ Fun fact: ...3rd year grad
