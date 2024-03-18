@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - # Frontend Projects
 - # KOTLIN
-- # NodeJS,ExpressJS
+- # NodeJS,ExpressJS,jQuery
 - # MongoDB
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...He/hIM
