@@ -5,7 +5,7 @@
 - # Frontend Projects
 - # KOTLIN
 - # NodeJS,ExpressJS,jQuery
-- # MongoDB
+- # MongoDB,PostgresQL
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...He/hIM
 - ⚡ Fun fact: ...3rd year grad
