@@ -4,7 +4,7 @@
 
 <h3>
 Hey there! , I am Sanil, 
- An Final Year student at Kalinga institute of industrial technology,Bhubaneshwar, India
+ A Final Year student at Kalinga institute of industrial technology,Bhubaneshwar, India
 
 </h3>  
 
@@ -67,7 +67,7 @@ Hey there! , I am Sanil,
 
 
 
-*CODING PROFILES
+* CODING PROFILES
   <table>
   <tr>
      <a href="https://leetcode.com/SanilSINGH/">
