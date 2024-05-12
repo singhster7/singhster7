@@ -4,7 +4,7 @@
 
 <h3>
 Hey there! , I am Sanil, 
- A Final Year student at Kalinga institute of industrial technology,Bhubaneshwar, India
+ A Final Year student at Kalinga Institute of Industrial Technology,Bhubaneshwar, India
 
 </h3>  
 
