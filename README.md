@@ -5,7 +5,8 @@
 <h3>
  
 Hey there! ,I am Sanil, 
- A Final Year student at Kalinga Institute of Industrial Technology,Bhubaneshwar, India
+ A Final Year student at Kalinga Institute of Industrial Technology,Bhubaneshwar, India. 
+ <strong> I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts</strong>
 
 </h3>  
 
