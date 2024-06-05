@@ -1,3 +1,4 @@
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/HimanshuMohanty-Git24/singhster7/assets/94133298/1497bc1c-51a0-4e39-99f6-8f8b78bab94f)
 
 
 ![](https://komarev.com/ghpvc/?username=singhster7&color=green)
@@ -76,7 +77,8 @@ Hey there! ,I am Sanil,
      
     
    </table>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)
+   <br/>
 
 * Some Achievements
 
