@@ -76,6 +76,7 @@ Hey there! ,I am Sanil,
      
     
    </table>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)<br/>
 
 * Some Achievements
 
