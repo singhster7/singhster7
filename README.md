@@ -1,5 +1,5 @@
 
-
+[![](https://visitcount.itsvg.in/api?id=singhster7&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=singhster7&color=green)
 
 <h3>
@@ -76,9 +76,10 @@ Hey there! ,I am Sanil,
      
     
    </table>
+## SUMMARY
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)
 
-* Some Achievements
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)
