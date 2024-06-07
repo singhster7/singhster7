@@ -10,7 +10,7 @@ Hey there! ,I am Sanil,
 
 </h3>  
 <strong> 
- I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks</strong>
+ I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and Angular</strong>
 
   
 ## 📫 Find me at:
@@ -20,15 +20,7 @@ Hey there! ,I am Sanil,
     <a href="https://www.linkedin.com/in/sanil-singh-3b7b0a225/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-
-    
-
-
-
-</table>
-
-
+   </table>
 
 ### My-Tech-Stack:
 * Languages and Tools
