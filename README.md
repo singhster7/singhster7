@@ -10,7 +10,7 @@ Hey there! ,I am Sanil,
 
 </h3>  
 <strong> 
- I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts</strong>
+ I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks</strong>
 
   
 ## 📫 Find me at:
