@@ -54,7 +54,9 @@ Hey there! ,I am Sanil,
     ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-* APPLICATION DEVELOPMENT  
+* APPLICATION DEVELOPMENT
+
+  
  ![image](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 * CODING PROFILES
