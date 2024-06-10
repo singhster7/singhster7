@@ -72,7 +72,7 @@ Hey there! ,I am Sanil,
 
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=singhster7&show_icons=true&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)
 
 
