@@ -75,7 +75,6 @@ Hey there! ,I am Sanil,
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)
 
 
-[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)]
 ![](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 
 # OPEN TO OPPORTUNITIES IN DOMAINS OF WEB DEVELOPMENT,APP DEVELOPMENT
