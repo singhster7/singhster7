@@ -3,13 +3,12 @@
 
 <h3>
  
-Hey there! ,I am Sanil, 
+Hey there! , I am Sanil, 
  A Final Year Student at Kalinga Institute of Industrial Technology,Bhubaneshwar, India. 
- 
-
 </h3>  
 <strong> 
- I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and Angular</strong>
+ I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and Angular
+</strong>
 
   
 ## 📫 Find me at:
@@ -18,8 +17,8 @@ Hey there! ,I am Sanil,
   <tr>
     <a href="https://www.linkedin.com/in/sanil-singh-3b7b0a225/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   </table>
+    </a>&nbsp;&nbsp;
+</table>
 
 ### My-Tech-Stack:
 * Languages and Tools
@@ -27,8 +26,8 @@ Hey there! ,I am Sanil,
   ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
   ![image](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C&logoColor=white)
-   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
@@ -65,10 +64,7 @@ Hey there! ,I am Sanil,
      <a href="https://leetcode.com/SanilSINGH/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
      </a>&nbsp;&nbsp;
-    
-     
-    
-   </table>
+     </table>
 ## SUMMARY
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)
 
