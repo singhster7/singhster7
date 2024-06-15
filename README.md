@@ -10,7 +10,7 @@ Hey there! ,I am Sanil,
 </h3>  
 <strong> 
  I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and Angular</strong>
-
+<a href="https://drive.google.com/file/d/1UthDDgJ8l8qWWxpdPaxs8SWlNYJLe6_k/view?usp=drive_link">Resume</a>
   
 ## 📫 Find me at:
 
