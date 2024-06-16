@@ -3,7 +3,7 @@
 
 <h3>
  
-Hello ther! , I am Sanil, 
+Hello there! , I am Sanil, 
  A Final Year Student at Kalinga Institute of Industrial Technology,Bhubaneshwar, India. 
 </h3>  
 <strong> 
