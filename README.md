@@ -70,7 +70,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)
-
+![](https://github-profile-trophy.vercel.app/?username=singhster7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
 
