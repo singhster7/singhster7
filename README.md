@@ -55,7 +55,7 @@
 * APPLICATION DEVELOPMENT
 
   
-    ![image](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=Kotlin&logoColor=white)
+    ![image](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=Kotlin&logoColor=61DAFB)
 
 * CODING PROFILES
   <table>
