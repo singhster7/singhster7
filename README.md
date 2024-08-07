@@ -6,7 +6,7 @@
  A Final Year Student at Kalinga Institute of Industrial Technology, India. 
 </h3>  
 <strong> 
- I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and NextJS
+ I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and NextJS.
 </strong>
 
   
