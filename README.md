@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=singhster7&color=green)
 
-<h3>
+<h3> 
  Hello there! , I am Sanil ,         
  A Final Year Student at Kalinga Institute of Industrial Technology,India. 
 </h3>  
