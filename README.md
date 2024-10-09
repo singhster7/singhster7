@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=singhster7&color=green)
 
 <h3> 
- Hello there! , I am Sanil ,         
+ Hello there! , I am Sanil Singh,         
  A Final Year Student at Kalinga Institute of Industrial Technology,India. 
 </h3>  
 <strong> 
