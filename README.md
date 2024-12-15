@@ -1,78 +1,66 @@
 
 ![](https://komarev.com/ghpvc/?username=singhster7&color=green)
 
-<h3> 
- Hello there! , I am Sanil Singh,          
- A Final Year Student at Kalinga Institute of Industrial Technology,India. 
-</h3>  
-<strong> 
- I specialise in Frontend Web Development and have strong grasp of JavaScript Concepts as well as it's frameworks like React and NextJS.
-</strong>
+## 👋 Hello there!  
+I am **Sanil Singh**,  
+A Final Year Student at **Kalinga Institute of Industrial Technology, India**.  
 
-  
-## 📫 Find me at:
+---
 
-<table>
-  <tr>
-       <a href="https://www.linkedin.com/in/sanil-singh-3b7b0a225/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>&nbsp;
-</table>
+### 🌟 About Me  
+I specialize in **Frontend Web Development**, with a strong grasp of **JavaScript concepts** and frameworks like **React** and **Next.js**. I'm passionate about building interactive and scalable web applications.
 
-### My-Tech-Stack:
-* Languages and Tools
+---
 
-  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![image](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
-  ![image](https://img.shields.io/badge/C++-FF6C37?style=for-the-badge&logo=C&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## 📫 Let's Connect:
+<a href="https://www.linkedin.com/in/sanil-singh-3b7b0a225/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+---
 
+## 🛠️ My Tech Stack:  
 
-* Backend Frameworks
+### **Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### **Frontend Frameworks**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-  ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![image](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-  
+### **Backend Frameworks**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
- 
-* Frontend Frameworks
+### **CSS Frameworks**  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### **Application Development**  
+![Kotlin](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=kotlin&logoColor=white)
 
-  ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-* CSS Frameworks
+---
 
+## 👨‍💻 Coding Profiles:  
+<a href="https://leetcode.com/SanilSINGH/">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 
-    ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-    ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-
-* APPLICATION DEVELOPMENT
-
-  
-    ![image](https://img.shields.io/badge/Kotlin-563D7C?style=for-the-badge&logo=Kotlin&logoColor=61DAFB)
-
-* CODING PROFILES
-  <table>
-  <tr>
-     <a href="https://leetcode.com/SanilSINGH/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-     </a>&nbsp;&nbsp;
-     </table>
-## SUMMARY
-![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)
+## 📊 GitHub Summary:
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)  
 ![](https://github-profile-trophy.vercel.app/?username=singhster7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
+---
 
-# OPEN TO OPPORTUNITIES IN DOMAINS OF WEB DEVELOPMENT,APP DEVELOPMENT
+## 🚀 Open to Opportunities  
+I'm currently looking for opportunities in **Web Development** and **App Development** domains. Let's collaborate to build innovative solutions!  
+
 
