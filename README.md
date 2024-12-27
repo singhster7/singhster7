@@ -57,7 +57,7 @@ I specialize in **Frontend Web Development**, with a strong grasp of **JavaScrip
 ![](https://github-readme-streak-stats.herokuapp.com/?user=singhster7&theme=radical&hide_border=false)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhster7&theme=solarized_dark)  
 ![](https://github-profile-trophy.vercel.app/?username=singhster7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushartanish10&" alt="singhster7" /></p>
 ---
 
 ## 🚀 Open to Opportunities  
