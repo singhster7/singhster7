@@ -47,9 +47,16 @@ I specialize in **Frontend Web Development**, with a strong grasp of **JavaScrip
 ---
 
 ## 👨‍💻 Coding Profiles:  
-<a href="https://leetcode.com/SanilSINGH/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=singhster7&show_icons=true&count_private=true&theme=transparent&ring_color=ffa116&title_color=000&rank_icon=github&include_all_commits=true" alt=" GitHub Stats">
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/SanilSINGH" alt="LeetCode Stats">
+    </td>
+  </tr>
+</table>
 
 ---
 
