@@ -10,7 +10,7 @@ A Final Year Student at **Kalinga Institute of Industrial Technology, India**.
 ### 🌟 About Me  
 I specialize in **Frontend Web Development**, with a strong grasp of **JavaScript concepts** and frameworks like **React** and **Next.js**. I'm passionate about building interactive and scalable web applications.
 
----
+--- 
 
 ## 📫 Let's Connect:
 <a href="https://www.linkedin.com/in/sanil-singh-3b7b0a225/">
